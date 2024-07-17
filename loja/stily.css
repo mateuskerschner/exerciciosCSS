@@ -1,0 +1,14 @@
+body{
+    background-color: #ffc0cb;
+}
+
+.Inicio{
+text-align: center;
+padding: 15rem;
+}
+
+.imagem1{
+    display: flex;
+}
+
+
