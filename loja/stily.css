@@ -1,14 +1,42 @@
 body{
     background-color: #ffc0cb;
+    background-image: url(./img/WhatsApp\ Image\ 2024-07-18\ at\ 12.38.13.jpeg);
+    background-position: center;
+    background-size: cover;
+    backdrop-filter: blur(2px);
 }
+
 
 .Inicio{
+color: black;
 text-align: center;
-padding: 15rem;
+padding: 20rem;
+text-shadow: 2px 2px 3px #999;
 }
 
-.imagem1{
-    display: flex;
+.pagina1{
+    background-image: url(./img/WhatsApp\ Image\ 2024-07-18\ at\ 12.38.13.jpeg);
+    background-position: center;
+    background-size: cover;
+    backdrop-filter: blur(2px);
 }
 
+
+.artesanato{
+    text-align: center;
+}
+
+.artesanato button{
+    background-color: blueviolet;
+    border-radius: 4px;
+}
+
+.croche{
+    text-align: center;
+}
+
+.croche button{
+    background-color: blueviolet;
+    border-radius: 4px;
+}
 
