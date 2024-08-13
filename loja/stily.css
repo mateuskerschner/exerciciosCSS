@@ -1,11 +1,24 @@
 body{
+    margin: 0;
+    padding: 0;
     background-color: #ffc0cb;
-    background-image: url(./img/WhatsApp\ Image\ 2024-07-18\ at\ 12.38.13.jpeg);
-    background-position: center;
-    background-size: cover;
-    backdrop-filter: blur(2px);
 }
 
+.interface{
+    display: flex;
+    display: inline;
+}
+
+.nav{
+    display: flex;
+    display: inline;
+    justify-content: space-between;
+    font-size: 30px;
+    align-items: center;
+    padding-left: 400px;
+    padding-right: 50px;
+    padding-top: 500px;
+}
 
 .Inicio{
 color: black;
@@ -15,7 +28,6 @@ text-shadow: 2px 2px 3px #999;
 }
 
 .pagina1{
-    background-image: url(./img/WhatsApp\ Image\ 2024-07-18\ at\ 12.38.13.jpeg);
     background-position: center;
     background-size: cover;
     backdrop-filter: blur(2px);
